@@ -26,8 +26,8 @@
     --h2-font-size: 1.5rem;
     --h3-font-size: 1.25rem;
     --normal-font-size: 1rem;
-    --small-font-size: .875rem;
-    --tiny-font-size: .8rem;
+    --small-font-size: .85rem;
+    --smaller-font-size: .8rem;
 
     /* FONT WEIGHT */
     --font-normal: 400;
@@ -61,7 +61,7 @@
         --h3-font-size: 1rem;
         --normal-font-size: .938rem;
         --small-font-size: .813rem;
-        --smaller-font-size: .75rem;
+        --smaller-font-size: .7rem;
     }
     
 }
